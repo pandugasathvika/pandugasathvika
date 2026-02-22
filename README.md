@@ -1,7 +1,8 @@
+
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building strong foundations in Mathematics for Machine Learning & Data Science (MMLDS) and improving my problem-solving skills through consistent practice.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Machine Learning projects, data analysis tasks, and small real-world problem-solving applications.<br><br>🤝 I’m looking for help with<br>Understanding advanced ML concepts, mathematical intuition behind algorithms, and improving coding efficiency.<br><br>🌱 I’m currently learning<br>Python for Data Science, Linear Algebra for ML, and strengthening core programming fundamentals.<br><br>💬 Ask me about<br>Math for ML basics, beginner data science journey, consistency in learning, or how to stay calm and focused while studying.<br><br>⚡ Fun fact<br>Aquarius ♒ | Calm & observant | I love spicy ramen, sugar-free life, and I stan One Direction 🎧✨<br>
+<br>👋 Hi there! I'm a passionate developer who loves building impactful digital experiences.<br><br>💻 I enjoy working on full-stack applications, crafting clean user interfaces, and writing efficient, maintainable code.<br>🚀 Currently exploring modern web technologies and scalable backend systems.<br>🤝 Open to collaborating on open-source projects and innovative tech ideas.<br>🌱 Continuously learning new tools, frameworks, and best practices to grow as a developer.<br>💬 Ask me about web development, APIs, system design, version control, or developer workflows.<br>⚡ Fun fact: I’m always tweaking and improving my projects—even after they’re “finished.”<br>
 
 
 ## 🌐 Socials:
@@ -17,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pandugasathvika&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
